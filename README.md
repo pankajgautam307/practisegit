@@ -1,1 +1,1 @@
-## Practising Dit Commands
+## Practising Git Commands
